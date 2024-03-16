@@ -10,7 +10,7 @@
 
 Please follow the below instructions to run this project in your machine:
 
-<p>Server section is available on ```./server``` directory.</p>
+<p>Server section is available on `./server` directory.</p>
 
 1. Clone this repository
    ```sh
