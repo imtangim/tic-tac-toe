@@ -75,6 +75,8 @@ You must configure the client socket also. To do that:
     Default Gateway . . . . . . . . . : 192.168.78.78
    ```
 
+
+<strong>Note:</strong> Must run `flutter pub get` to run properly.
 ## Contact
 
 <b>Tangim Haque</b>: [tanjim437@gmail.com](mailto:tanjim437@gmail.com)
